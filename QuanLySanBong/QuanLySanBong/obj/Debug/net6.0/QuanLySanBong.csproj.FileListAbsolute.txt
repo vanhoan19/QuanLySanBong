@@ -1,0 +1,754 @@
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.Development.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.staticwebassets.runtime.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.exe
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.deps.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.runtimeconfig.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.pdb
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.AssemblyReference.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfoInputs.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfo.cs
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CoreCompileInputs.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.MvcApplicationPartsAssemblyInfo.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cs
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.QuanLySanBong.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLySanBong.props
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLySanBong.props
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLySanBong.props
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.build.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.development.json
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\bundle\QuanLySanBong.styles.css
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\projectbundle\QuanLySanBong.bundle.scp.css
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\refint\QuanLySanBong.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.pdb
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.genruntimeconfig.cache
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\ref\QuanLySanBong.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Humanizer.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Common.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CopyComplete
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Laptrinh\Web\BTL\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.Development.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.staticwebassets.runtime.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.exe
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.deps.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.runtimeconfig.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.pdb
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Humanizer.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Common.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.AssemblyReference.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfoInputs.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfo.cs
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CoreCompileInputs.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cs
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.QuanLySanBong.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLySanBong.props
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLySanBong.props
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLySanBong.props
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\bundle\QuanLySanBong.styles.css
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\projectbundle\QuanLySanBong.bundle.scp.css
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CopyComplete
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\refint\QuanLySanBong.dll
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.pdb
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.genruntimeconfig.cache
+E:\Lập trình Web\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\ref\QuanLySanBong.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.Development.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\appsettings.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.staticwebassets.runtime.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.exe
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.deps.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.runtimeconfig.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\QuanLySanBong.pdb
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Humanizer.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\JetBrains.Annotations.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Common.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\X.PagedList.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.AssemblyReference.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfoInputs.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.AssemblyInfo.cs
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CoreCompileInputs.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.MvcApplicationPartsAssemblyInfo.cs
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.RazorAssemblyInfo.cs
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.QuanLySanBong.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLySanBong.props
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLySanBong.props
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLySanBong.props
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.build.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\staticwebassets.development.json
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\bundle\QuanLySanBong.styles.css
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\scopedcss\projectbundle\QuanLySanBong.bundle.scp.css
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.csproj.CopyComplete
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\refint\QuanLySanBong.dll
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.pdb
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\QuanLySanBong.genruntimeconfig.cache
+E:\Lập trình Web\NguyenThanhDat2\QuanLySanBong\QuanLySanBong\obj\Debug\net6.0\ref\QuanLySanBong.dll
